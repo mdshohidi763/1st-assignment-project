@@ -93,6 +93,7 @@ color: #444343;
 
 }
 /* Down section styles */
+
 .down-section{
     
     text-align: center;
@@ -107,18 +108,58 @@ color: #444343;
 
 }
 
-/* .down-section-title{    */
-    margin-left: 30px;
-    /* width: 500px; */
-    height: 90px;
-    weight:100px;
-    font-weight: 600;
-    padding:70px 60px;
-    margin-top:50px;
-    text-align-last: left;
+
 }
-/* Contact styles */
-#contact{
-    margin-top: 30px;
+.down-section-title{
+    background: #FFFFFF;
+    margin-left: 30px;
+    /* width: 250px;
+    height: 90px;
+    weight:100px; */
+    font-weight: 800;
+    /* padding:70px 60px; */
+    margin-top:60px;
+    /* text-align-last: left; */
+}
+/* Tension part styles */
+.contact{
+
     display: flex;
 }
+    
+ 
+.description{
+    color:  #FFFFFF;
+}
+.contact-area{
+
+    margin-top: 50px;
+    background: #151414;
+
+    text-align:left;
+}
+.contact-zone{
+    margin-bottom:20px;
+    .
+    height:200px ;
+    text-align:center;
+    margin-bottom: 100px;
+    background: #151414;
+}
+.button{
+    
+    margin-top: 15px;
+    font-weight: 100;
+    height: 40px;
+    border-radius: 8px;
+    background: #005FAC;
+    border: none;
+
+
+}
+form{
+border: #FFFFFF
+}
+h3{
+    color:white;
+} 
