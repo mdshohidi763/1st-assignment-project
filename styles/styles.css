@@ -103,7 +103,7 @@ color: #444343;
     width: 1140px;
     height: 250px;
     border-radius: 8px;
-    background-image: url('/images/watch.png')
+    background-image: url('../images/watch.png')
        
 
 }
@@ -121,6 +121,9 @@ color: #444343;
     margin-top:60px;
     /* text-align-last: left; */
 }
+
+
+
 /* Tension part styles */
 .contact{
 
@@ -139,11 +142,11 @@ color: #444343;
     text-align:left;
 }
 .contact-zone{
-    margin-bottom:20px;
+
     .
     height:200px ;
     text-align:center;
-    margin-bottom: 100px;
+  
     background: #151414;
 }
 .button{
@@ -160,6 +163,8 @@ color: #444343;
 form{
 border: #FFFFFF
 }
-h3{
-    color:white;
-} 
+h4{
+    
+    font-size: 30px;
+    color: #FFFFFF;
+ }
